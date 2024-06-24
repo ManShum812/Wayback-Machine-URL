@@ -8,7 +8,7 @@ Error Handling: Retries on connection issues and logs errors for better traceabi
 
 Human-like Behavior: Introduces random delays between requests to mimic human behavior and avoid server detection.
 
-Accurate Results: Reduces false positives and errors compared to Tomnomnom's waybackurls and lc gau.
+Huge Reduction in False Positives and Errors: Compared to Tomnomnom's waybackurls and lc gau, this script provides significantly more accurate results.
 
 # Why Use This Script?
 Tomnomnom's [waybackurls](https://github.com/tomnomnom/waybackurls) and lc [gau](https://github.com/lc/gau) are great tools, but they can produce too many false positives and errors. This script addresses these issues, providing more reliable results and ensuring smoother operation. With detailed logging, random delays to mimic human-like behavior, and robust error handling, this script is a better alternative for fetching URLs from the Wayback Machine.
