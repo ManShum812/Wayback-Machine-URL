@@ -1,12 +1,17 @@
 # Overview
-This script fetches URLs from the Wayback Machine for any given domain. It handles HTTP errors gracefully, includes detailed logging, and introduces random delays between requests to mimic human behavior.
+Wayback-Machine-URL fetches known URLs from the Wayback Machine for any given domain. Inspired by Tomnomnom's waybackurls and lc gau, this script aims to provide more accurate results with fewer false positives and errors.
 
 # Features:
 Fetch All URLs: Queries the Wayback Machine for all URLs related to a target domain.
 
-Error Handling: Retries on connection issues and logs errors.
+Error Handling: Retries on connection issues and logs errors for better traceability.
 
-Human-like Behavior: Random delays to avoid server detection.
+Human-like Behavior: Introduces random delays between requests to mimic human behavior and avoid server detection.
+
+Accurate Results: Reduces false positives and errors compared to Tomnomnom's waybackurls and lc gau.
+
+# Why Use This Script?
+Tomnomnom's waybackurls and lc gau are great tools, but they can produce too many false positives and errors. This script addresses these issues, providing more reliable results and ensuring smoother operation. With detailed logging, random delays to mimic human-like behavior, and robust error handling, this script is a better alternative for fetching URLs from the Wayback Machine.
 
 # Installation
 git clone https://github.com/ManShum812/Wayback-Machine-URL.git
