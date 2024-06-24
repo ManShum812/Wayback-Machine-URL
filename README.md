@@ -20,7 +20,7 @@ python wayback.py
 # Usage:
 Prepare Input File: Create input.txt with one domain per line.
 
-Run the Script: Execute python wayback.py.
+Run the Script: python wayback.py.
 
 Output: Gathered URLs are saved in gathered_urls.txt.
 
