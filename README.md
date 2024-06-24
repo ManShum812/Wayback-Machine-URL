@@ -3,13 +3,18 @@ This script fetches URLs from the Wayback Machine for any given domain. It handl
 
 # Features:
 Fetch All URLs: Queries the Wayback Machine for all URLs related to a target domain.
+
 Error Handling: Retries on connection issues and logs errors.
+
 Human-like Behavior: Random delays to avoid server detection.
 
 # Installation and Usage:
 Install Dependencies: Ensure requests is installed (pip install requests).
+
 Prepare Input File: Create input.txt with one domain per line.
+
 Run the Script: Execute python wayback.py.
+
 Output: Gathered URLs are saved in gathered_urls.txt.
 
 python wayback.py
