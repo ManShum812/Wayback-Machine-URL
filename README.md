@@ -30,5 +30,5 @@ Run the Script: python wayback.py.
 Output: Gathered URLs are saved in gathered_urls.txt.
 
 
-# Contributing
-Let me know if there's anything else you'd like to add or adjust!
+# Get Involved
+Your contributions are welcome! You can help improve this project by opening issues or submitting pull requests. If you have any ideas to enhance the tool, please share them. Together, we can make the web a safer place!
